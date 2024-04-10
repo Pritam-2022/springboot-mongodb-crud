@@ -1,0 +1,7 @@
+[{
+  "_id": 1,
+  "firstName": "Peter",
+  "lastName": "Jackson",
+  "emailId": "pritamj@mail.com",
+  "_class": "net.springboot.demo.springbootmongodbcrud.entity.Employee"
+}]
